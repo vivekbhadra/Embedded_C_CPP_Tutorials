@@ -2,7 +2,6 @@
 // This program demonstrates the sizes of different variable types in C.
 // It declares an integer, a float, and a character variable, and then prints their values and sizes in bytes.
 #include <stdio.h>
-
 int main(void)
 {
     int age = 25;
